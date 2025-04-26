@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🚀 LOCHOSTHUB – Offline AI-Driven Research Platform
 
@@ -110,3 +111,7 @@ This project is licensed under the MIT License.
 ---
 
 # 🚀 Let's make offline research smarter!
+=======
+# LOCHOSTHUB
+Offline AI-Driven Research Platform
+>>>>>>> 29e9be636f19655f62bd766160efc7dedc3e1fe8
